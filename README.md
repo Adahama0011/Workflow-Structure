@@ -1,1 +1,1 @@
-# Workflow-Structure![Workflow Infographic](Workflow_Infographic.png)
+This workflow infographic illustrates how I structure my projects from intake to delivery. Each stage — planning, execution, review, and delivery — is connected by clear checkpoints and guided by my core values of integrity, accountability, and growth. This ensures that every project is managed consistently, transparently, and with a focus on continuous improvement.
